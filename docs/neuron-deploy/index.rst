@@ -1,7 +1,7 @@
 .. _neuron-containers:
 
-Overview
-========
+Neuron Containers
+=================
 
 Neuron provides tools to support deploying containarized applications to
 Inf1 instances.

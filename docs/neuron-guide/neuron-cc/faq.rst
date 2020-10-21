@@ -1,5 +1,5 @@
-FAQs
-====
+Neuron Compiler FAQs
+====================
 
 Q: Where can I compile to Neuron?
 ---------------------------------

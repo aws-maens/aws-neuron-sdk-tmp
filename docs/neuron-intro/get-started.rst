@@ -38,8 +38,12 @@ recommended for you to get started with Neuron:
    instructions of one of the HowTo guides at
    :ref:`deploy-ml-application`.
 
+
+Navigate documentation
+----------------------
+
 Tutorials
----------
+~~~~~~~~~
 
 Explore more Tutorials and examples at:
 
@@ -50,7 +54,7 @@ Explore more Tutorials and examples at:
 -  :ref:`Neuron Containers Tutorials and Examples <containers-tutorials>`
 
 ML Frameworks
--------------
+~~~~~~~~~~~~~
 
 You can find Neuron supported ML Frameworks at:
 
@@ -59,7 +63,7 @@ You can find Neuron supported ML Frameworks at:
 -  :ref:`neuron-mxnet`
 
 ML Inference Models
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 You can find ML Inference models tutorials at:
 
@@ -76,7 +80,7 @@ You can find ML Inference models tutorials at:
    -  :ref:`MXNet <mxnet-nlp>`
 
 Performance optimization
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following steps are recommended for you to achieve highly optimized
 neuron application:
@@ -96,7 +100,30 @@ neuron application:
    at :ref:`performance-optimization` .
 
 Containers Support
-------------------
+~~~~~~~~~~~~~~~~~~
 
 visit :ref:`neuron-containers` for more information about Neuron
 containers support and more :ref:`containers-tutorials`.
+
+
+.. _install-neuron:
+
+Installing Neuron
+-----------------
+
+To use Neuron you can use a pre-built Amazon Machine Images (DLAMI) or
+DL containers or install Neuron software on your own instances. To
+ensure you have the latest Neuron version we recommend to either install
+it on your own instance, or to check for the installed version when
+using DLAMI or DL containers.
+
+You can :ref:`neuron-install-guide` if you already have an environment
+you'd like to continue using.
+
+
+.. toctree::
+   :maxdepth: 1
+
+   neuron-install-guide
+   dlami
+   dlcontainers

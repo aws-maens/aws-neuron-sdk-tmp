@@ -1,5 +1,5 @@
-FAQs
-====
+Neuron runtime FAQs
+===================
 
 Q: How does Neuron connect to all the Inferentia chips in an Inf1 instance?
 ---------------------------------------------------------------------------
