@@ -1,5 +1,5 @@
-Release Notes
-=============
+What's New
+==========
 
 .. toctree::
    :maxdepth: 1
