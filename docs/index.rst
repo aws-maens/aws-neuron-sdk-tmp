@@ -77,6 +77,7 @@ forum <https://forums.aws.amazon.com/forum.jspa?forumID=355>`__.
    neuron-guide/perf/index
    neuron-guide/prof/index
 
+.. _deploy-ml-application:
 
 .. toctree::
    :maxdepth: 2
