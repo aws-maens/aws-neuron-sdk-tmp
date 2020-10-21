@@ -71,9 +71,7 @@ forum <https://forums.aws.amazon.com/forum.jspa?forumID=355>`__.
    Neuron Compiler <neuron-guide/neuron-cc/index>
    Neuron Runtime <neuron-guide/neuron-runtime/index>
    Neuron Tools <neuron-guide/neuron-tools/index>
-   TensorFlow Neuron <neuron-guide/tensorflow-neuron/index>
-   PyTorch Neuron <neuron-guide/pytorch-neuron/index>
-   MXNet Neuron <neuron-guide/mxnet-neuron/index>   
+   neuron-guide/neuron-frameworks/index
    neuron-guide/perf/index
    neuron-guide/prof/index
 

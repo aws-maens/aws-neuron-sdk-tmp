@@ -50,8 +50,8 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 #exclude_patterns = []
 exclude_patterns = ['_build', '**.ipynb_checkpoints',
-                    'neuron-guide/pytorch-neuron/tutorials/*.ipynb',
-                    'neuron-guide/pytorch-neuron/tutorials/bert_tutorial/*.ipynb']
+                    'neuron-guide/neuron-frameworks/pytorch-neuron/tutorials/*.ipynb',
+                    'neuron-guide/neuron-frameworks/pytorch-neuron/tutorials/bert_tutorial/*.ipynb']
 
 html_logo = 'images/Site-Merch_Neuron-ML-SDK_Editorial.jpg'
 
